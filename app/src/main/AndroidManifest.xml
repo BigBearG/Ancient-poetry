@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bigbearg.ancient_poetry">
+    <!--刘营海-->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+
+
+    <!--刘元龙-->
+
+
+
+
+    <!--巩厚鑫-->
+
+
 
     <application
         android:allowBackup="true"
@@ -19,5 +34,14 @@
             </intent-filter>
         </activity>
     </application>
+    <!--刘营海-->
 
+
+
+    <!--刘元龙-->
+
+
+
+
+    <!--巩厚鑫-->
 </manifest>
